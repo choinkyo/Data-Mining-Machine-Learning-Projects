@@ -5,5 +5,7 @@ Purple
 Yellow
 Green 
 Blue
+pink
+orange
 
 The End

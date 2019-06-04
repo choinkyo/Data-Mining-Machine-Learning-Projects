@@ -3,7 +3,8 @@ The color
 Red
 Purple
 Yellow
-Green 
+Green
+Indigo
 Blue
 pink
 orange

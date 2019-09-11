@@ -13,3 +13,6 @@ Project #2: Diabetes Analysis
 ### [Data Constructs](./python_basics/notebooks/Python%20Bootcamp%20-%20Data%20Constructs.ipynb)
 ### [Math](./python_basics/notebooks/Python%20Bootcamp-%20Math.ipynb)
 ### [Lab 1: Math in Jupyter Notebook](./python_basics/labs/Lab1-%20Math.ipynb)
+
+
+## Project #1: Diabetes Analysis
